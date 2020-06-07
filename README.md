@@ -1,1 +1,1 @@
-https://youtu.be/3lnuRtoLvwc?list=PLRD1Niz0lz1vUgS6zW0VZiAeF4EWWlfev&t=900
+I had more free time over the last weeks do to a certain virus. So I decided to learn more Javascrip and build a little app with react. I started with [this tutorial](https://youtu.be/3lnuRtoLvwc?list=PLRD1Niz0lz1vUgS6zW0VZiAeF4EWWlfev).
